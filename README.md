@@ -1,3 +1,6 @@
+[![Website](https://img.shields.io/badge/Website-akulov--dev.ru-blue?style=for-the-badge&logo=google-chrome)](https://akulov-dev.ru/)
+[![Telegram](https://img.shields.io/badge/Telegram-Channel-2CA5E0?style=for-the-badge&logo=telegram)](https://t.me/Serg_Akulov_tg)
+
 ### Приветствую. Я Сергей Акулов.
 
 **Токарь с 30-летним стажем & Инди-разработчик.**
